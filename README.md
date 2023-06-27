@@ -1,5 +1,5 @@
 
-## [Objective_C语言特性](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/Objective_C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7)
+## [Objective_C语言特性](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/Objective_C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7)
 
 >* 分类
 >* 扩展
@@ -9,7 +9,7 @@
 >* KVC(Key-value coding)
 >* 属性关键字
 
-## [runloop](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/Runloop)
+## [runloop](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/Runloop)
 
 >* RunLoop概念
 >* RunLoop的数据结构
@@ -32,7 +32,7 @@
 >* 什么是异步绘制？
 >* 分类和类拓展的区别?
 
-## [runtime](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/runtime)
+## [runtime](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/runtime)
 
 >* objc在向一个对象发送消息时，发生了什么？
 >* objc中向一个nil对象发送消息将会发生什么？
@@ -77,7 +77,7 @@
 >* 代码题（一）
 >* 代码题（二）
 
-## [UI相关](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/UI%E7%9B%B8%E5%85%B3)
+## [UI相关](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/UI%E7%9B%B8%E5%85%B3)
 
 >* UIView与CALayer
 >* 事件传递与视图响应链 
@@ -87,13 +87,13 @@
 >* UI绘制原理
 >* 离屏渲染
 
-## [Block相关面试题](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/Block%E7%9B%B8%E5%85%B3)
+## [Block相关面试题](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/Block%E7%9B%B8%E5%85%B3)
 
 >* 什么是Block？
 >* Block变量截获
 >* Block的几种形式
 
-## [多线程](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B)
+## [多线程](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B)
 
 >* 进程
 >*  线程
@@ -116,7 +116,7 @@
 >* NSThread+runloop实现常驻线程
 >* 自旋锁与互斥锁
 
-## [内存管理](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
+## [内存管理](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
 
 >* 内存布局
 >* 内存管理方案
@@ -147,7 +147,7 @@
 >* 在 MRC 下如何重写属性的 Setter 和 Getter?
 >* 在 Obj-C 中，如何检测内存泄漏？你知道哪些方式？
 
-## [算法面试题](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
+## [算法面试题](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
 >* 不用中间变量,用两种方法交换A和B的值
 >* 求最大公约数
@@ -165,7 +165,7 @@
 >* 查找两个子视图的共同父视图
 >* 求无序数组中的中位数
 
-## [网络相关](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)
+## [网络相关](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)
 
 >* 请求报文和响应报文
 >* HTTP的请求方式
@@ -200,7 +200,7 @@
 >* IPv6数据报格式
 >* 从IPv4到IPv6的迁移
 
-## [性能优化](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
+## [性能优化](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
 >* 基本概念
 >* 怎么检测离屏渲染：
@@ -216,22 +216,22 @@
 >* 如何高性能的画一个圆角？
 >* 如何优化 APP 的电量？
 
-## [Animation](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/Animation)
+## [Animation](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/Animation)
 
 >* 简要说一下常用的动画库。
 >* 请说一下对 CALayer 的认识
 >* CALayer 的 Contents 有几下几个主要的属性
 
-## [设计模式](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+## [设计模式](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
 >* 编程中的六大设计原则？
 >* 如何设计一个图片缓存框架？
 >* 如何设计一个时长统计框架？
 >* 如何实现 App 换肤（夜间模式）？
 
-## [数据安全及加密](https://github.com/dgynfi/iOS-Interview-Questions2/tree/master/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E5%8F%8A%E5%8A%A0%E5%AF%86)
+## [数据安全及加密](https://github.com/chenxing640/iOS-Interview-Questions2/tree/master/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E5%8F%8A%E5%8A%A0%E5%AF%86)
 
 >* 简述 SSL 加密的过程用了哪些加密方法，为何这么作？
 >* RSA非对称加密
 
-## [75道程序员逻辑思维面试题](https://github.com/dgynfi/iOS-Interview-Questions2/blob/master/75%E9%81%93%E7%A8%8B%E5%BA%8F%E5%91%98%E9%80%BB%E8%BE%91%E6%80%9D%E7%BB%B4%E9%9D%A2%E8%AF%95.md)
+## [75道程序员逻辑思维面试题](https://github.com/chenxing640/iOS-Interview-Questions2/blob/master/75%E9%81%93%E7%A8%8B%E5%BA%8F%E5%91%98%E9%80%BB%E8%BE%91%E6%80%9D%E7%BB%B4%E9%9D%A2%E8%AF%95.md)
